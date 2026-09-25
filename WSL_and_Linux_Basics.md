@@ -1,7 +1,6 @@
 [WSL_and_Linux_Basics_for_Life_Science_Beginners.md](https://github.com/user-attachments/files/32595463/WSL_and_Linux_Basics_for_Life_Science_Beginners.md)
-# bioinformatics-training
-Beginner-friendly WSL and Linux training for life science students, with genomics examples.
-# WSL and Linux Basics for Life Science Beginners
+
+# WSL and Linux Basics
 
 **A Windows laptop guide to installing Ubuntu and working with sequence files**  
 Updated 24 September 2026
