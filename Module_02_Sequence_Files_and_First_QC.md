@@ -1,6 +1,5 @@
-# Module 02: Meet sequencing data — FASTA, FASTQ and a first quality check
-
-**For:** life science trainees beginning bioinformatics  
+# Module 02: Meet sequencing data : FASTA, FASTQ and a first quality check
+ 
 **Time:** about 60–90 minutes  
 **You need:** a Windows laptop with Ubuntu on WSL, the commands from [Module 01](WSL_and_Linux_Basics.md), a browser, and [the practice data ZIP](Module_02_Practice_Data.zip).
 
