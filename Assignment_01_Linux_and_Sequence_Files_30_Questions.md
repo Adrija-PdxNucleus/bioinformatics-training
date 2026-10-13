@@ -1,6 +1,6 @@
 # Assignment 01: Linux commands and sequence files
 
-**Level:** beginner life science trainee  
+**Level:** beginner  
 **Suggested time:** 90–120 minutes  
 **Total:** 30 questions, 60 marks (2 marks each)
 
@@ -63,4 +63,4 @@ For each command question, submit **the command you ran and the relevant result*
 
 ## What to submit
 
-Submit a document with answers numbered **1–30**. Include commands and the small relevant outputs for command questions; for Question 30, include your short interpretation. You can also submit `analysis_notes.txt` if your trainer asks for it. The practice reads contain no real sample information.
+Submit a document with answers numbered **1–30**. Include commands and the small relevant outputs for command questions; for Question 30, include your short interpretation. Also submit `analysis_notes.txt`. The practice reads contain no real sample information.
